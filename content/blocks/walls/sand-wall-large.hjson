@@ -4,5 +4,6 @@ size: 2
 requirements: [
   sand/32
   ]
+buildCostMultiplier: 2
 category: defense
 research: sand-wall
