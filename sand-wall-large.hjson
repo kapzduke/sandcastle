@@ -1,8 +1,0 @@
-type: Wall
-health: 960
-size: 2
-requirements: [
-  sand/32
-  ]
-category: defense
-research: sand-wall
