@@ -1,0 +1,8 @@
+type: Wall
+health: 240
+size: 1
+requirements: [
+  sand/8
+  ]
+category: defense
+research: copper-wall
