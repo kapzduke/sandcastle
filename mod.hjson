@@ -1,0 +1,10 @@
+name: sandcastle-json
+displayName: Sandcastle
+author: kapzduke
+description:
+  '''
+  Play in the sand.
+  Not quite practical against vanilla forces.
+  '''
+version: ersion: still not done
+minGameVersion: 131
