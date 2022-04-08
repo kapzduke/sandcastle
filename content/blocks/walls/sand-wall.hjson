@@ -4,5 +4,6 @@ size: 1
 requirements: [
   sand/8
   ]
+buildCostMultiplier: 2
 category: defense
 research: copper-wall
